@@ -127,7 +127,6 @@ function App() {
           className="w-full px-4 py-2 bg-gray-700 text-white rounded-lg"
         />
 
-        {/* ✅ FIX: เรียก update */}
         <button
           onClick={handleUpdate}
           className="bg-green-600 hover:bg-green-500 text-white py-2 px-4 rounded-lg text-sm font-semibold transition"
